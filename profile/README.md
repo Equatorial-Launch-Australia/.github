@@ -23,6 +23,12 @@ All software tools Tom Frew has developed for ELA, particularly with regard to C
 
 All plugins and files hosted on ELA's COSMOS build for the [Common User Environment](https://equatoriallaunchaus.sharepoint.com/:w:/r/sites/STE/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7c7f5c87-d31e-459f-8244-b48255a88000%7D) (CUE).
 
+## 🚀 [NodeRed Rocket Sim](https://github.com/Equatorial-Launch-Australia/NodeRed-Rocket-Sim)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+A rough simulation for Innospace's [한빛 - 나노 HyPER Rocket](https://www.innospc.com/page/sub01_01_1), for telemetry testing and Launch OPS training.
+
 ## 📖 Useful Links
 
 [The Common User Environment](https://equatoriallaunchaus.sharepoint.com/:w:/r/sites/STE/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7c7f5c87-d31e-459f-8244-b48255a88000%7D)
