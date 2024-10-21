@@ -27,7 +27,7 @@ All plugins and files hosted on ELA's COSMOS build for the [Common User Environm
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-A rough rocket simulation that generated telemetry data for the [Common User Environment](https://equatoriallaunchaus.sharepoint.com/:w:/r/sites/STE/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7c7f5c87-d31e-459f-8244-b48255a88000%7D) (CUE). Complete with simulations of communications, weather, launch controls, propellants, kinetics, latency and the environment.
+A rough rocket simulation that generates telemetry data for testing the [Common User Environment](https://equatoriallaunchaus.sharepoint.com/:w:/r/sites/STE/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7c7f5c87-d31e-459f-8244-b48255a88000%7D) (CUE). Complete with simulations of communications, weather, launch controls, propellants, kinetics, latency and the environment.
 
 ## 📖 Useful Links
 
