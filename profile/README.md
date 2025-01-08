@@ -1,6 +1,6 @@
 # 🚀 Equatorial Launch Australia
 
-Equatorial Launch Australia (ELA) Operates the Arnhem Space Centre, providing Spaceport infrastructure and launch service for small-medium lift rockets. This organisation contains all the software tools developed by ELA.
+Equatorial Launch Australia (ELA) Operates the Australian Space Centre, providing Spaceport infrastructure and launch service for small-medium lift rockets. This organisation contains all the software tools developed by ELA.
 
 ## ⛓️ [Tom's Toolchain](https://github.com/Equatorial-Launch-Australia/Toms-Toolchain)
 
