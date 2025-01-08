@@ -35,4 +35,4 @@ A rough rocket simulation that generates telemetry data for testing the [Common 
 
 ![An ELA rocket launch](https://github.com/user-attachments/assets/82b656c0-30a1-4e93-a5be-15692ce08610)
 
-> *"Taking ELA's tech to the moon!"*
+> *You build the rockets... we'll take care of the rest ™*
